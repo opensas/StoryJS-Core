@@ -25,9 +25,9 @@ if(typeof VMM != 'undefined') {
 			full_long_small_date: "HH:MM'<br/><small>d mmm yyyy'</small>'"
 		},
 		messages: {
-			loading_timeline: "Cronología esta cargando",
+			loading_timeline: "La cronología esta cargando",
 			return_to_title: "Volver al título",
-			expand_timeline: "Enlargar la cronología",
+			expand_timeline: "Agrandar la cronología",
 			contract_timeline: "Reducir la cronología",
 			wikipedia: "Desde Wikipedia, la enciclopedia libre",
 			loading_content: "cargando",
